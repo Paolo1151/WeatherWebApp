@@ -1,0 +1,19 @@
+What is the Average Temperature of a province over a certain period
+- Past 7 Days
+- Past Month
+- Past Quarter
+- Past Year
+
+Visualizations:
+- Min and Max Temperature Boundaries with Temp Avg as the Solid Line
+- Average Wind Speed
+
+-----------------
+- Modelling
+-----------------
+Forecasting
+- 1 Day Forecast based on Dataset
+
+Classification
+- Based on Forecast, Rule-based Classification
+- Weather Type Unsupervised Clustering --> Classification
